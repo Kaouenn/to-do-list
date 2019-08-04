@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+li {
+  list-style: none;
+  font-size: 30px;
+  width: 50%;
+  margin: auto;
+  text-align: left;
+  cursor: pointer;
+}
+
+input {
+  width: 35%;
+  margin: auto;
+  font-size: 15px;
+  padding: 2px 5px;
+  height: 30px;
+  border: solid 1px black;
+}
